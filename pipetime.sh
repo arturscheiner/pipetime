@@ -83,3 +83,4 @@ runExec() {
 }
 
 runExec
+rm -Rf ./output.sh result.json
